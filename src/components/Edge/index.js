@@ -1,7 +1,7 @@
 const Edge = () => {
     return (
-        <div>
-        </div>
+        <di>
+        </di>
     )
 }
 
